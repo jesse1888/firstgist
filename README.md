@@ -1,2 +1,2 @@
-# firstgist
+# firstgit
 my first git
